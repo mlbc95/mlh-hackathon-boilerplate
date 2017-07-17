@@ -30,14 +30,14 @@ seo:
 
 # Event information.
 event:
-  name:        "Example Hacks"
+  name:        "UMSL|HACK"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  date:        "29 & 30 September 2016"
+  location:    "Saint Louis, Mo, United States"
 
   trust_badge:
     year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
+    region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
